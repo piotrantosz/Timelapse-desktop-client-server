@@ -9,13 +9,25 @@ Web client
 ⋅⋅* Python Django
 
 Android client
-⋅⋅* Java
+* Java
 
 Desktop client server
-⋅⋅* Java
+* Java
 
 Android client server
-⋅⋅* Java
+* Java
 
 Communication
-⋅⋅* Rest API
+* Rest API
+
+## Features
+
+Client
+* Managing frequency of taken photo and sum time (e.g. year, month, etc.) 
+* Changing camera settings (e.g. brightness)
+* Checking storage, status, client server machine temperatures etc. 
+* Managing notifications (e.g. choose alerts and send them on your email)
+
+Client server
+* View status of everything
+* Simple connect your camera and set up everything from client
