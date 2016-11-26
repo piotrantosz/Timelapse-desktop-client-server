@@ -6,7 +6,7 @@ Software made for creating long term timelapses, using diffrent devices as clien
 ## Technologies
 
 Web client
-⋅⋅* Python Django
+* Python Django
 
 Android client
 * Java
