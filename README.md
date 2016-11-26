@@ -6,6 +6,9 @@ Software made for creating long term timelapses, using diffrent devices as clien
 
 ![Local storage diagram](http://i.imgur.com/whu0w3w.png)
 
+* client server - it's your device where you run our code. This device become machine for taking pictures and storaging them. Connect camera, place it, stabilize and that's all.
+* client - your control panel, manage your client server from here
+
 ## Technologies
 
 Web client
@@ -35,6 +38,6 @@ Client
 Client server
 * View status of everything
 * Simple connect your camera and set up everything from client
-
+* Wake on lan for advenced users
 
 
