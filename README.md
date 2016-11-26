@@ -1,4 +1,7 @@
 # Timelapse-desktop-client-server
+
+## Desktop client server
+
 Software made for creating long term timelapses, using diffrent devices as client server (creating timelapses) and client (managing timelapses).
 
 ![Local storage diagram](http://i.imgur.com/whu0w3w.png)
@@ -32,4 +35,6 @@ Client
 Client server
 * View status of everything
 * Simple connect your camera and set up everything from client
+
+
 
